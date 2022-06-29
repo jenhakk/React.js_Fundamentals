@@ -38,3 +38,7 @@
 -  React doesn't require using JSX but it's helpful when working with UI inside the JavaScript code.
 -  It allows React to show useful error and warning messages.
 -  You can put any Javascript expressions within braces inside JSX.
+
+We can easily implement functionality with JavaScript to HTML by using JSX elements. In the image below you can see a small example of it. 
+
+![JSX](/pics/jsx_example.png)
