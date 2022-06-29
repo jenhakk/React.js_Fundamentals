@@ -20,8 +20,14 @@
    - Accept the terms
    - Choose destination folder
    - You can custom which features are installed but we didn't change anything and clicked Next
-   - Next you can select the checkbox to have necessary tools installed automatically (picture below). If you don’t want to do that, you can manually install dependencies by following instructions on the given link. 
+   - Next you can select the checkbox to have necessary tools installed automatically (see image below). If you don’t want to do that, you can manually install dependencies by following instructions on the given link. 
     
 ![Install tools](/pics/install_tools.png)
 
-#### 3. After completing installation command prompt opens and you can finish by following given instructions.
+#### 3. After completing installation command prompt opens and you can finish by following given instructions
+   - When Powershell finishes all the installations (see image below), you are recommended to reboot your computer.
+
+![Powershell](/pics/powershell.png)
+
+#### 4. Next you are ready to create a new react app with your chosen editor
+   - We are using Visual Studio Code and you can install it from [here](https://code.visualstudio.com).
