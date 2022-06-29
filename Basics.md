@@ -42,3 +42,37 @@
 We can easily implement functionality with JavaScript to HTML by using JSX elements. In the image below you can see a small example of it. 
 
 ![JSX](/pics/jsx_example.png)
+
+## 4. What are components in React?
+
+- They are small, reusable and independent bits of code which are mostly created by using functions.
+- Component take in parameter and returns something. **Note that return statement is the only mandatory thing in the component!**
+- They serve the same purpose as the JavaScript function but they work in isolation.
+- There are two types of components: **Class** and **Function**:
+
+### Class Component
+
+- Must include `extends React.Component` statement, which cretes an inheritance React.Component and gives your component access to React.Component function.
+- Requires `render()` function.
+
+### Function Component
+
+- Behaves much same as Class component but can be written with less code and is easier to understand.
+- It is recommended to use Function components with hooks **LINKKI TÄHÄN**
+
+## How to create a new React app?
+
+- Now you have installed node.js and your preferred editor, it is time to create your first React app!
+- Write these commands on the editor’s terminal:
+
+`npx create-react-app myproject` 
+  
+*This command creates a new folder according to given folder name (myproject).*  
+  
+`cd myproject`  
+  
+*This command moves you to the project folder.*  
+  
+`npm start`  
+  
+*This command starts the project, opens a browser and you can start editing the code in src/App.js in editor.*  
