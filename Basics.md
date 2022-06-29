@@ -31,3 +31,10 @@
 
 #### 4. Next you are ready to create a new react app with your chosen editor
    - We are using Visual Studio Code and you can install it from [here](https://code.visualstudio.com).
+
+## 3. What is React JSX?
+
+-  JSX produces React “elements”.
+-  React doesn't require using JSX but it's helpful when working with UI inside the JavaScript code.
+-  It allows React to show useful error and warning messages.
+-  You can put any Javascript expressions within braces inside JSX.
