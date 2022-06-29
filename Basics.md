@@ -74,5 +74,8 @@ We can easily implement functionality with JavaScript to HTML by using JSX eleme
 *This command moves you to the project folder.*  
   
 `npm start`  
+    
+*This command starts the project, opens a browser and you can start editing the code in src/App.js in editor (see image below)**LINKKI TÄHÄN?**.*  
   
-*This command starts the project, opens a browser and you can start editing the code in src/App.js in editor.*  
+    
+![First App](/pics/first_app.png)
