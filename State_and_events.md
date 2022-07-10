@@ -135,6 +135,10 @@ function App() {
 export default App;
 ```
 
+
+https://user-images.githubusercontent.com/75015030/178139628-66a990f4-327d-4173-8f1e-99cabf7d2254.mp4
+
+
 #### Name example
 
 In this example you can see synthetic event `onChange` in use. When user types his name in the input field, it is being updated on the browser as the state changes. With JSX, a function is passed as the event handler instead of a string.
@@ -150,7 +154,7 @@ function App () {
   } 
   
   return( 
-     <div>           
+     <div className="App">           
         <label>Name:</label>
         <input type="text" value={name} name="name" onChange={updateName} /><br />
         <input type="submit" value="Submit" />
@@ -161,3 +165,7 @@ function App () {
   
 export default App;
 ```
+
+
+https://user-images.githubusercontent.com/75015030/178139839-c16b1adb-468a-4799-b490-75ff66d14279.mp4
+
