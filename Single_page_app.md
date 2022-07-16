@@ -85,7 +85,7 @@ Added classes for CSS to elements.
 
 ![homenew](https://user-images.githubusercontent.com/75015030/179349736-3b509177-bdd9-4988-8de9-ab4f56614945.jpg)
 
-Final version of home page
+Final version of application
 
-![readypage](https://user-images.githubusercontent.com/75015030/179349865-9c5b9ee1-a153-455c-9521-643e4031e7f4.png)
+https://user-images.githubusercontent.com/75015030/179350109-dcbb855a-6588-4248-9bb5-3149bae676c1.mp4
 
