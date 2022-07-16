@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+ 
+}
+
+body {
+
+  background-color: aliceblue;
+}
+
+.content {
+  width: 75%;
+  margin: auto;
+}
+
+h1 {
+
+  font-size: 40px;
+}
+
+.info {
+
+  font-size: 20px;
+  color: rgb(21, 21, 219);
+}
+
+.info2 {
+
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.links {
+  background-color: rgb(144, 169, 244);
+  font-size: 22px;
+  color: antiquewhite;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 500;
+
+}
