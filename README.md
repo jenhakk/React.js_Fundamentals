@@ -1,5 +1,7 @@
-# React.js_Fundamentals
+# React.js_Fundamentals  
 
+#### Creators: [Jenna Hakkarainen](https://github.com/jenhakk), [Amanda Karjalainen](https://github.com/amakarj)  
+  
 ## This repository is created for studying React fundamentals on following topics:
 
 ### [1. React Basics](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Basics.md)
