@@ -2,7 +2,7 @@
 
 ## This repository is created for studying React fundamentals on following topics:
 
-### 1. React Basics
+### [1. React Basics](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Basics.md)
   - What is React.js?
   - How to set up required tools to develop web applications with React?
   - What is React JSX?
@@ -17,7 +17,7 @@
   - How are events handled in React?
   - Demonstration of event in React
 
-### 3. React hooks and single page web app
+### [3. React hooks and single page web app](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Hooks.md)
   - What are hooks?
   - Demonstration of using hooks
   - How to build a single page web application with React?
