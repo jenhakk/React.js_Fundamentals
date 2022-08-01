@@ -10,7 +10,7 @@
   - How to create a new React app (step by step guide)?
   
 
-### 2. React state and events
+### [2. React state and events](https://github.com/jenhakk/React.js_Fundamentals/blob/main/State_and_events.md)
   - What is the React state?
   - Demonstration of state in React app
   - What is an event?
