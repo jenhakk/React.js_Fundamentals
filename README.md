@@ -33,7 +33,7 @@
 ### *We handle first three topics in separate .md files in this repository and answer questions in pair. Last task is being done individually in own separate repositories to create two different applications. You can find applications and repositories below:*
 
 [**Amanda's weather app**](https://amakarj.github.io/react-weather-app)  
-[**Amanda's repository**](https://github.com/amakarj/react-weather-app)    
+[**Amanda's repository**](https://github.com/amakarj/react-weather-app/tree/master))    
 
 [**Jenna's weather app**](https://jenhakk.github.io/react-weather-app)  
 [**Jenna's repository**](https://github.com/jenhakk/react-weather-app)
