@@ -36,5 +36,5 @@
 [**Amanda's repository**](https://github.com/amakarj/react-weather-app/tree/master)    
 
 [**Jenna's weather app**](https://jenhakk.github.io/react-weather-app)  
-[**Jenna's repository**](https://github.com/jenhakk/react-weather-app)
+[**Jenna's repository**](https://github.com/jenhakk/react-weather-app/tree/master)
 
