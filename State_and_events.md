@@ -12,7 +12,7 @@
 ### Demonstration of state in React app
 
 In the codes below usage of states is demonstrated using both Class and Function components.  
-The state of name object is initialized in the beginning and then referred in HTML tag.
+The state of `name` object is initialized in the beginning and then referred in HTML tag.
 
 #### Class component
 
