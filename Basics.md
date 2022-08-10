@@ -58,7 +58,7 @@ We can easily implement functionality with JavaScript to HTML by using JSX eleme
 ### Function Component
 
 - Behaves much same as Class component but can be written with less code and is easier to understand.
-- It is recommended to use Function components with hooks **LINKKI TÄHÄN**
+- It is recommended to use Function components with [hooks](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Hooks.md)
 
 ## How to create a new React app?
 
