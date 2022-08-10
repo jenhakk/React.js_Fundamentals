@@ -19,7 +19,7 @@
   - How are events handled in React?
   - Demonstration of event in React
 
-### [3. React hooks and single page web app](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Hooks.md)
+### [3. React hooks](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Hooks.md) and [single page web app](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Single_page_app.md)
   - What are hooks?
   - Demonstration of using hooks
   - How to build [a single page web application](https://github.com/jenhakk/React.js_Fundamentals/blob/main/Single_page_app.md) with React?
