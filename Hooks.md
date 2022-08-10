@@ -3,7 +3,7 @@
 ## What are React Hooks?
 
 - Hooks let you use state and other React features without writing a class.
-- React provides a few built-in Hooks like useState and useEffect.
+- React provides a few built-in Hooks like `useState` and `useEffect`.
 - You can also create your own custom Hooks which you can e.g. use to share and reuse stateful logic in several components.
 ### Hooks have three additional rules:
 
